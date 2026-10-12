@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this repository as a draft security framework; no DOI or release version is recorded."
+title: "SOVRINT Identity Security"
+authors:
+  - family-names: Pietroniro
+    given-names: Katrina
+repository-code: "https://github.com/SOVRINT-OG/sovrint-identity-security"
+keywords:
+  - digital identity
+  - security
+  - privacy
+  - threat modeling
